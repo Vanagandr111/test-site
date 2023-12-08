@@ -1,6 +1,6 @@
 # Добро пожаловать на наш сайт!
 
-![Наш продукт](img/1.png)
+![Наш продукт](https://a.allegroimg.com/original/11934d/18640aeb43f3b442847552f8e7e0/TABORETY-TABORET-DEBOWY-STOLEK-DREWNIANY-KUCHENNY)
 
 ## О нашем продукте
 
